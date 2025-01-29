@@ -10,7 +10,7 @@ Here you'll find 3D models of scientific devices developed by the laboratory and
 - **STL file:** Bridge_T_K_clean.stl
 - **Preform file:** Bridge_T_K_clean.form
 
-#### Bacterial_trail_Khun_2022.zip contains the following files
+#### [Bacterial_trail_Khun_2022.zip](bacterial_trail_Kuhn_2022.zip) contains the following files
 
 - **Fusion360 file:** bacterial_trail_Kuhn_2022.f3d
 - **STL file:** bacterial_trail_Kuhn_2022.stl
