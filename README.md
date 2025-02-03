@@ -29,5 +29,7 @@ Here you'll find 3D models of scientific devices developed by the laboratory and
                 Fungal_highway_column_V2_Junier_2021_cap_side2.stl                
 - **Preform file:** FHC_03_fev2025_clean.form
 
+**NB**	<ins>this device is not the original, but an evolution to overcome SLA printing problems affecting screw threads. This model is more robust and functional.</ins>
+ 
 *publication*: Junier P, Cailleau G, Palmieri I, Vallotton C, Trautschold OC, Junier T, Paul C, Bregnard D, Palmieri F, Estoppey A, Buffi M, Lohberger A, Robinson A, Kelliher JM, Davenport K, House GL, Morales D, Gallegos-Graves V, Dichosa AEK, Lupini S, Nguyen HN, Young JD, Rodrigues DF, Parra-Vasquez ANG, Bindschedler S, Chain PSG. Democratization of fungal highway columns as a tool to investigate bacteria associated with soil fungi. FEMS Microbiol Ecol. 2021 Feb 11;97(2):fiab003. doi: 10.1093/femsec/fiab003. PMID: 33440006; PMCID: PMC7878174.
 
