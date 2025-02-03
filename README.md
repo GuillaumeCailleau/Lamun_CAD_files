@@ -1,3 +1,4 @@
+![Logo](Front_img.png)
 # CAD files repository from Lamun projects' (Laboratory of Microbiology, University of Neuchâtel, Switzerland)
 
 Here you'll find 3D models of scientific devices developed by the laboratory and related to some of our publications and [collaborations](https://github.com/Bacterial-Fungal-Interactions-SFA). The rationale for creating this repository was that we had various issues while using third-party models, particularly with complex ones. As this domain is steadily developing in the laboratory, it will host more and more material with time. Check it out regularly! 
