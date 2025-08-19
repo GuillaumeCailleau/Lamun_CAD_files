@@ -4,9 +4,9 @@
 
 # CAD files repository from Lamun projects' (Laboratory of Microbiology, University of Neuchâtel, Switzerland)
 
-Here you'll find 3D models of scientific devices developed by the laboratory and related to some of our publications and [collaborations](https://github.com/Bacterial-Fungal-Interactions-SFA). The rationale for creating this repository was that we had various issues while using third-party models, particularly with complex ones. As this domain is steadily developing in the laboratory, it will host more and more material with time. Check it out regularly! 
+Here you'll find 3D models of scientific devices developed by the laboratory. Some are related to our publications and [collaborations](https://github.com/Bacterial-Fungal-Interactions-SFA), while others were developed for various internal lab needs. We created this repository to ensure the models are reliable and to keep track of their development, as we often faced issues with third-party models. As this domain is steadily developing in the laboratory, it will host more and more material with time. Check it out regularly! 
 
-
+## Models related to publication
 #### [Bacterial_bridge_Khun_2022.zip](Bacterial_bridge_Kuhn_2022.zip) contains the following: files
 
 - **Fusion360 file:** Bridge_T_K_clean.f3d
@@ -36,3 +36,11 @@ Here you'll find 3D models of scientific devices developed by the laboratory and
  
 *publication*: Junier P, Cailleau G, Palmieri I, Vallotton C, Trautschold OC, Junier T, Paul C, Bregnard D, Palmieri F, Estoppey A, Buffi M, Lohberger A, Robinson A, Kelliher JM, Davenport K, House GL, Morales D, Gallegos-Graves V, Dichosa AEK, Lupini S, Nguyen HN, Young JD, Rodrigues DF, Parra-Vasquez ANG, Bindschedler S, Chain PSG. Democratization of fungal highway columns as a tool to investigate bacteria associated with soil fungi. FEMS Microbiol Ecol. 2021 Feb 11;97(2):fiab003. doi: 10.1093/femsec/fiab003. PMID: 33440006; PMCID: PMC7878174.
 
+## Models related to internal lab needs
+### [Adapter_M27_pg13.5.zip](Adapter_M27_pg13.5.zip) contains the following files:
+
+- **Fusion360 file:** Adapter_M27_pg13.5.f3d
+- **STL file:** Adapter_M27_pg13.5.stl
+- **Preform file:** Adapter_M27_pg13.5.form
+
+**NB** This adaptor is designed to convert an M27 port (commonly used for a cooling finger or a 4-in-1 accessory) into a Pg13.5 port (the standard interface for bioreactor sensors). It was used in an IKA 2 L double-walled bioreactor.
