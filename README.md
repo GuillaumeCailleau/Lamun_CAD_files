@@ -6,7 +6,12 @@
 
 Here you'll find 3D models of scientific devices developed by the laboratory. Some are related to our publications and [collaborations](https://github.com/Bacterial-Fungal-Interactions-SFA), while others were developed for various internal lab needs. We created this repository to ensure the models are reliable and to keep track of their development, as we often faced issues with third-party models. As this domain is steadily developing in the laboratory, it will host more and more material with time. Check it out regularly! 
 
-## Models related to publication
+this page is organized as follow:
+- [Material from published works](#models-related-to-published-contents)
+- [Material from manuscript under submission/review](#models-related-to-publications-under-submission)
+- [Material developed for laboratory purpose](#models-related-to-internal-lab-needs)
+
+## Models related to published contents
 #### [Bacterial_bridge_Khun_2022.zip](Bacterial_bridge_Kuhn_2022.zip) contains the following: files
 
 - **Fusion360 file:** Bridge_T_K_clean.f3d
@@ -35,6 +40,16 @@ Here you'll find 3D models of scientific devices developed by the laboratory. So
 **NB**	<ins>this device is not the original, but an evolution to overcome SLA printing problems affecting screw threads. This model is more robust and functional.</ins>
  
 *publication*: Junier P, Cailleau G, Palmieri I, Vallotton C, Trautschold OC, Junier T, Paul C, Bregnard D, Palmieri F, Estoppey A, Buffi M, Lohberger A, Robinson A, Kelliher JM, Davenport K, House GL, Morales D, Gallegos-Graves V, Dichosa AEK, Lupini S, Nguyen HN, Young JD, Rodrigues DF, Parra-Vasquez ANG, Bindschedler S, Chain PSG. Democratization of fungal highway columns as a tool to investigate bacteria associated with soil fungi. FEMS Microbiol Ecol. 2021 Feb 11;97(2):fiab003. doi: 10.1093/femsec/fiab003. PMID: 33440006; PMCID: PMC7878174.
+
+
+## Models related to publications under submission
+### 2-well device and petri dish holder files from Bouchard et al., 'A method for evaluating bacterial dispersal on hyphal networks':
+
+- **Fusion360 file:** [petri dish holder](holder_petri_dish_83.7mm.f3d) holder_petri_dish_83.7mm.f3d
+- **STL file:** [2-well device](2_wells_device_2025.stl) 2_wells_device_2025.stl
+                [petri dish holder](holder_petri_dish_83.7mm.stl) holder_petri_dish_83.7mm.stl
+- **Preform file:** [petri dish holder](holder_petri_dish_83.7mm_2_obj.form)
+
 
 ## Models related to internal lab needs
 ### [Adapter_M27_pg13.5.zip](Adapter_M27_pg13.5.zip) contains the following files:
